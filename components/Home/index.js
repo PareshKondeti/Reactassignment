@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import {HiCash} from 'react-icons/hi'
+
 import {withRouter} from 'react-router-dom'
 import Cookies from 'js-cookie'
 import Modal from 'react-modal'
